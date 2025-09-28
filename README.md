@@ -1,4 +1,4 @@
-# CPP-16-ERROR-HANDLING
+# CPP-16-EXCEPTION-HANDLING
 
 ## Aim
 To study and implement the concept of **Exception Handling** in C++.
